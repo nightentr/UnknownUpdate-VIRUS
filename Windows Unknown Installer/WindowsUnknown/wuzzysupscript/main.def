@@ -1,0 +1,11 @@
+import wuzzydever.wuz
+import wuz
+flask.default
+
+{
+setDef(origin(state.'ALPHABET'));
+}
+{
+setDef(windowsBar.degr(state.'orizontal'))
+}
+wuz(login_wuzzydever.wuz);

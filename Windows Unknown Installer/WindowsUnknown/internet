@@ -1,0 +1,8 @@
+prefab.disk
+connect.iphone
+pro.script/"AppleConnect.c"
+
+=bluetooth.acces	
+	
+	
+		when.bluetooth/active.data/'reciver%40%'
